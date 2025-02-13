@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="DdlMappings">
-    <mapping uuid="e8c95879-3c50-431a-8125-2354a56bd23a" name="baleCorp.db Mapping">
-      <data-sources db="b723907c-6cd5-47b8-a43b-69551cc41252" ddl="a38558d2-9f2b-4888-88a8-e1cfa6eb1d7a" />
-    </mapping>
-  </component>
-</project>
